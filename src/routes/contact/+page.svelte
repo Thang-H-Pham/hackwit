@@ -21,23 +21,6 @@
     </Button>
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div class="flex justify-center items-center mt-8 px-4 sm:px-6 flex-col gap-4">
     <h2> hackathon@hackwit.org </h2>
     <div class="flex flex-row gap-4">
