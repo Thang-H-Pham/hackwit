@@ -22,7 +22,7 @@
         About
     </Button>
 </div>
-
+ 
 <!-- Members Section -->
 <div class="flex justify-center px-4 mt-10">
 	<div class="w-full max-w-6xl">
@@ -163,10 +163,6 @@
 		</div>
 	</div>
 </div>
-
-
-
-    
 
 <!-- Contact Information -->
 <div class="flex justify-center items-center mt-8 px-4 sm:px-6 flex-col gap-4">
