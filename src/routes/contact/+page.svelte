@@ -24,143 +24,148 @@
 </div>
  
 <!-- Members Section -->
-<div class="flex justify-center px-4 mt-10">
-	<div class="w-full max-w-6xl">
+<div class="px-4 mt-10">
+	<div class= "max-w-6xl mx-auto space-y-6">
 
 		<!-- Grid -->
-		<div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
+			<!-- 1st -->
+			<div class = "grid grid-cols-1 sm:grid-cols-2 gap-6 place-items-center">
+				<!-- Member 1 -->
+				<div class="flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-md">
+					<div class="w-40 h-40 rounded-full border-2 border-[rgba(41,106,72,0.8)] overflow-hidden">
+						<img src="" alt="Sosa" class="w-full h-full object-cover" />
+					</div>
 
-			<!-- Member 1 -->
-			<div class="flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full">
-				<div class="w-40 h-40 rounded-full border-2 border-[rgba(41,106,72,0.8)] overflow-hidden">
-					<img src="" alt="Sosa" class="w-full h-full object-cover" />
+					<div>
+						<h3 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-xl">
+							Jasper Mayone 
+						</h3>
+        	            <h5 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-sm">
+        	                · Event Director, Sponsorship Director
+            	        </h5>
+					
+					</div>
 				</div>
 
-				<div>
-					<h3 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-xl">
-						Jasper Mayone 
-					</h3>
-                    <h5 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-sm">
-                        · Event Director, Sponsorship Director
-                    </h5>
+				<!-- Member 2 -->
+				<div class="flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-md">
+					<div class="w-40 h-40 rounded-full border-2 border-[rgba(41,106,72,0.8)] overflow-hidden">
+						<img src="" alt="Sosa" class="w-full h-full object-cover" />
+					</div>
+
+					<div>
+						<h3 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-xl">
+							Logan Lambert 
+						</h3>
+                	    <h5 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-sm">
+                	        · Tech Lead and Judging Coordination Co-Lead
+                   		</h5>
+					
+					</div>                
+				</div>
+			</div>
+			
+
+			<!-- 2nd -->
+			<div class = "grid grid-cols-1 sm:grid-cols-3 gap-6 place-items-center">
+				<!-- Member 3 -->
+				<div class="flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-md">
+					<div class="w-40 h-40 rounded-full border-2 border-[rgba(41,106,72,0.8)] overflow-hidden">
+						<img src="" alt="Sosa" class="w-full h-full object-cover" />
+					</div>
+
+					<div>
+						<h3 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-xl">
+							Daniel Miretsky 
+						</h3>
+						<h5 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-sm">
+							· Judging Lead and Tech Co-Lead
+						</h5>
+						
+					</div>
+
+					
+				</div>
+
+				<!-- Member 4 -->
+				<div class="flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-md">
+					<div class="w-40 h-40 rounded-full border-2 border-[rgba(41,106,72,0.8)] overflow-hidden">
+						<img src="" alt="Sosa" class="w-full h-full object-cover" />
+					</div>
+
+					<div>
+						<h3 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-xl">
+							LogVolo Kotelyak 
+						</h3>
+						<h5 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-sm">
+							· Sponsorship Lead
+						</h5>
+						
+					</div>
+
+					
+				</div>
+
+				<!-- Member 5 -->
+				<div class="flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-md">
+					<div class="w-40 h-40 rounded-full border-2 border-[rgba(41,106,72,0.8)] overflow-hidden">
+						<img src="" alt="Sosa" class="w-full h-full object-cover" />
+					</div>
+
+					<div>
+						<h3 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-xl">
+							Jojo Dejesus 
+						</h3>
+						<h5 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-sm">
+							· Design / Social Media Lead
+						</h5>
+						
+					</div>
+
+					
+				</div>
+			</div>
+            
+			<!-- 3rd -->
+			<div class = "grid grid-cols-1 sm:grid-cols-2 gap-6 place-items-center">
+				<!-- Member 6 -->
+				<div class="flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-md">
+					<div class="w-40 h-40 rounded-full border-2 border-[rgba(41,106,72,0.8)] overflow-hidden">
+						<img src="..." alt="Sosa" class="w-full h-full object-cover" />
+					</div>
+					<div>
+						<h3 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-xl">
+							Thang H Pham
+						</h3>
+						<h5 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-sm">
+							· Tech Team
+						</h5>
+						
+					</div>
+
+					
+				</div>
+
+				<!-- Member 7 -->
+				<div class="flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-md">
+					<div class="w-40 h-40 rounded-full border-2 border-[rgba(41,106,72,0.8)] overflow-hidden">
+						<img src="" alt="Sosa" class="w-full h-full object-cover" />
+					</div>
+
+					<div>
+						<h3 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-xl">
+							Khanh Tran
+						</h3>
+						<h5 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-sm">
+							· Tech Team
+						</h5>
+						
+					</div>
+
 					
 				</div>
 			</div>
 
-			<!-- Member 2 -->
-			<div class="flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full">
-				<div class="w-40 h-40 rounded-full border-2 border-[rgba(41,106,72,0.8)] overflow-hidden">
-					<img src="" alt="Sosa" class="w-full h-full object-cover" />
-				</div>
-
-				<div>
-					<h3 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-xl">
-						Logan Lambert 
-					</h3>
-                    <h5 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-sm">
-                        · Tech Lead and Judging Coordination Co-Lead
-                    </h5>
-					
-				</div>
-
-                
-			</div>
-
-            <!-- Member 3 -->
-			<div class="flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full">
-				<div class="w-40 h-40 rounded-full border-2 border-[rgba(41,106,72,0.8)] overflow-hidden">
-					<img src="" alt="Sosa" class="w-full h-full object-cover" />
-				</div>
-
-				<div>
-					<h3 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-xl">
-						Daniel Miretsky 
-					</h3>
-                    <h5 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-sm">
-                        · Judging Lead and Tech Co-Lead
-                    </h5>
-					
-				</div>
-
-                
-			</div>
-
-            <!-- Member 4 -->
-			<div class="flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full">
-				<div class="w-40 h-40 rounded-full border-2 border-[rgba(41,106,72,0.8)] overflow-hidden">
-					<img src="" alt="Sosa" class="w-full h-full object-cover" />
-				</div>
-
-				<div>
-					<h3 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-xl">
-						LogVolo Kotelyak 
-					</h3>
-                    <h5 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-sm">
-                        · Sponsorship Lead
-                    </h5>
-					
-				</div>
-
-                
-			</div>
-
-            <!-- Member 5 -->
-			<div class="flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full">
-				<div class="w-40 h-40 rounded-full border-2 border-[rgba(41,106,72,0.8)] overflow-hidden">
-					<img src="" alt="Sosa" class="w-full h-full object-cover" />
-				</div>
-
-				<div>
-					<h3 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-xl">
-						Jojo Dejesus 
-					</h3>
-                    <h5 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-sm">
-                        · Design / Social Media Lead
-                    </h5>
-					
-				</div>
-
-                
-			</div>
-
-            <!-- Member 6 -->
-			<div class="flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full">
-				<div class="w-40 h-40 rounded-full border-2 border-[rgba(41,106,72,0.8)] overflow-hidden">
-					<img src="..." alt="Sosa" class="w-full h-full object-cover" />
-				</div>
-				<div>
-					<h3 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-xl">
-						Thang H Pham
-					</h3>
-                    <h5 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-sm">
-                        · Tech Team
-                    </h5>
-					
-				</div>
-
-                
-			</div>
-
-            <!-- Member 7 -->
-			<div class="flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full">
-				<div class="w-40 h-40 rounded-full border-2 border-[rgba(41,106,72,0.8)] overflow-hidden">
-					<img src="" alt="Sosa" class="w-full h-full object-cover" />
-				</div>
-
-				<div>
-					<h3 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-xl">
-						Khanh Tran
-					</h3>
-                    <h5 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-sm">
-                        · Tech Team
-                    </h5>
-					
-				</div>
-
-                
-			</div>
-
-		</div>
 	</div>
 </div>
 
