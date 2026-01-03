@@ -24,8 +24,8 @@
 </div>
  
 <!-- Members Section -->
-<div class="px-4 mt-10">
-	<div class= "max-w-6xl mx-auto space-y-6">
+<div class="flex justify-center px-4 mt-10">
+	<div class="w-full space-y-6">
 
 		<!-- Grid -->
 			<!-- 1st -->
