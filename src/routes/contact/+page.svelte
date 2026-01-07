@@ -31,7 +31,7 @@
 			<!-- 1st -->
 			<div class = "grid grid-cols-1 sm:grid-cols-2 gap-6 place-items-center">
 				<!-- Member 1 -->
-				<div class="flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-md">
+				<div class="flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-2xl">
 					<div class="w-40 h-40 rounded-full border-2 border-[rgba(41,106,72,0.8)] overflow-hidden">
 						<img src="" alt="Sosa" class="w-full h-full object-cover" />
 					</div>
@@ -48,7 +48,7 @@
 				</div>
 
 				<!-- Member 2 -->
-				<div class="flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-md">
+				<div class="flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-2xl">
 					<div class="w-40 h-40 rounded-full border-2 border-[rgba(41,106,72,0.8)] overflow-hidden">
 						<img src="" alt="Sosa" class="w-full h-full object-cover" />
 					</div>
@@ -69,7 +69,7 @@
 			<!-- 2nd -->
 			<div class = "grid grid-cols-1 sm:grid-cols-3 gap-6 place-items-center">
 				<!-- Member 3 -->
-				<div class="flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-md">
+				<div class="flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-2xl">
 					<div class="w-40 h-40 rounded-full border-2 border-[rgba(41,106,72,0.8)] overflow-hidden">
 						<img src="" alt="Sosa" class="w-full h-full object-cover" />
 					</div>
@@ -88,7 +88,7 @@
 				</div>
 
 				<!-- Member 4 -->
-				<div class="flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-md">
+				<div class="flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-2xl">
 					<div class="w-40 h-40 rounded-full border-2 border-[rgba(41,106,72,0.8)] overflow-hidden">
 						<img src="" alt="Sosa" class="w-full h-full object-cover" />
 					</div>
@@ -107,7 +107,7 @@
 				</div>
 
 				<!-- Member 5 -->
-				<div class="flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-md">
+				<div class="flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-2xl">
 					<div class="w-40 h-40 rounded-full border-2 border-[rgba(41,106,72,0.8)] overflow-hidden">
 						<img src="" alt="Sosa" class="w-full h-full object-cover" />
 					</div>
@@ -129,7 +129,7 @@
 			<!-- 3rd -->
 			<div class = "grid grid-cols-1 sm:grid-cols-2 gap-6 place-items-center">
 				<!-- Member 6 -->
-				<div class="flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-md">
+				<div class="flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-2xl">
 					<div class="w-40 h-40 rounded-full border-2 border-[rgba(41,106,72,0.8)] overflow-hidden">
 						<img src="..." alt="Sosa" class="w-full h-full object-cover" />
 					</div>
@@ -147,7 +147,7 @@
 				</div>
 
 				<!-- Member 7 -->
-				<div class="flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-md">
+				<div class="flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-2xl">
 					<div class="w-40 h-40 rounded-full border-2 border-[rgba(41,106,72,0.8)] overflow-hidden">
 						<img src="" alt="Sosa" class="w-full h-full object-cover" />
 					</div>
