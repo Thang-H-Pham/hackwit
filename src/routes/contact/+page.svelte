@@ -15,13 +15,6 @@
 <div class="flex justify-center items-center mt-6 px-4 sm:px-6">
     <hr class="w-full max-w-5xl border-t-[1px] border-gray-300 dark:border-gray-1000 my-6" />
 </div>
-
-<!-- Navigation Buttons -->
-<div class="flex flex-wrap justify-center items-center mt-4 peak gap-3 sm:gap-4 px-4">    
-    <Button style="font-size: 1.3rem; font-weight: 500;">
-        About
-    </Button>
-</div>
  
 <!-- Members Section -->
 <div class="flex justify-center px-4 mt-10">
@@ -29,18 +22,18 @@
 
 		<!-- Grid -->
 			<!-- 1st -->
-			<div class = "grid grid-cols-1 sm:grid-cols-2 gap-6 place-items-center">
+			<div class = "grid grid-cols-1 sm:grid-cols-2 gap-2 place-items-center justify-rounded-md">
 				<!-- Member 1 -->
-				<div class="flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-2xl">
+				<div class="transform-gpu origin-center transition-transform duration-300 hover:[transform:rotateX(10deg)_rotateY(-10deg)] shadow-xl/30 flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-2xl">
 					<div class="w-40 h-40 rounded-full border-2 border-[rgba(41,106,72,0.8)] overflow-hidden">
-						<img src="" alt="Sosa" class="w-full h-full object-cover" />
+						<img src="/img/jasper.jpg" alt="Daniel Miretsky" class="w-full h-full object-cover" /> 
 					</div>
 
 					<div>
-						<h3 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-xl">
-							Jasper Mayone 
+						<h3 class="text-2xl font-semibold text-[rgba(41,106,72,1)] text-shadow-md">
+							Jasper Mayone
 						</h3>
-        	            <h5 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-sm">
+        	            <h5 class="text-lg font-semibold text-[rgba(41,106,72,1)]">
         	                · Event Director, Sponsorship Director
             	        </h5>
 					
@@ -48,16 +41,16 @@
 				</div>
 
 				<!-- Member 2 -->
-				<div class="flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-2xl">
+				<div class="transform-gpu origin-center transition-transform duration-300 hover:[transform:rotateX(10deg)_rotateY(-10deg)]  shadow-xl/30 flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-2xl">
 					<div class="w-40 h-40 rounded-full border-2 border-[rgba(41,106,72,0.8)] overflow-hidden">
-						<img src="" alt="Sosa" class="w-full h-full object-cover" />
+						<img src="/img/logan.jpg" alt="Sosa" class="w-full h-full object-cover" />
 					</div>
 
 					<div>
-						<h3 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-xl">
+						<h3 class="text-2xl font-semibold text-[rgba(41,106,72,1)] text-shadow-md">
 							Logan Lambert 
 						</h3>
-                	    <h5 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-sm">
+                	    <h5 class="text-lg font-semibold text-[rgba(41,106,72,1)] ">
                 	        · Tech Lead and Judging Coordination Co-Lead
                    		</h5>
 					
@@ -69,16 +62,16 @@
 			<!-- 2nd -->
 			<div class = "grid grid-cols-1 sm:grid-cols-3 gap-6 place-items-center">
 				<!-- Member 3 -->
-				<div class="flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-2xl">
+				<div class="transform-gpu origin-center transition-transform duration-300 hover:[transform:rotateX(10deg)_rotateY(-10deg)]  shadow-xl/30 flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-2xl">
 					<div class="w-40 h-40 rounded-full border-2 border-[rgba(41,106,72,0.8)] overflow-hidden">
-						<img src="" alt="Sosa" class="w-full h-full object-cover" />
+						<img src="/img/daniel.jpg" alt="Daniel Miretsky" class="w-full h-full object-cover" />
 					</div>
 
 					<div>
-						<h3 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-xl">
+						<h3 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-shadow-md">
 							Daniel Miretsky 
 						</h3>
-						<h5 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-sm">
+						<h5 class="text-lg font-semibold text-[rgba(41,106,72,1)]">
 							· Judging Lead and Tech Co-Lead
 						</h5>
 						
@@ -88,16 +81,16 @@
 				</div>
 
 				<!-- Member 4 -->
-				<div class="flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-2xl">
+				<div class="transform-gpu origin-center transition-transform duration-300 hover:[transform:rotateX(10deg)_rotateY(-10deg)]  shadow-xl/30 flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-2xl">
 					<div class="w-40 h-40 rounded-full border-2 border-[rgba(41,106,72,0.8)] overflow-hidden">
 						<img src="" alt="Sosa" class="w-full h-full object-cover" />
 					</div>
 
 					<div>
-						<h3 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-xl">
+						<h3 class="text-2xl font-semibold text-[rgba(41,106,72,1)] text-shadow-md">
 							LogVolo Kotelyak 
 						</h3>
-						<h5 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-sm">
+						<h5 class="text-lg font-semibold text-[rgba(41,106,72,1)]">
 							· Sponsorship Lead
 						</h5>
 						
@@ -107,16 +100,16 @@
 				</div>
 
 				<!-- Member 5 -->
-				<div class="flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-2xl">
+				<div class="transform-gpu origin-center transition-transform duration-300 hover:[transform:rotateX(10deg)_rotateY(-10deg)] shadow-xl/30 flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-2xl">
 					<div class="w-40 h-40 rounded-full border-2 border-[rgba(41,106,72,0.8)] overflow-hidden">
-						<img src="" alt="Sosa" class="w-full h-full object-cover" />
+						<img src="/img/jojo.jpg" alt="Sosa" class="w-full h-full object-cover" />
 					</div>
 
 					<div>
-						<h3 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-xl">
+						<h3 class="text-shadow-md font-semibold text-[rgba(41,106,72,1)] text-2xl">
 							Jojo Dejesus 
 						</h3>
-						<h5 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-sm">
+						<h5 class="text-lg font-semibold text-[rgba(41,106,72,1)]">
 							· Design / Social Media Lead
 						</h5>
 						
@@ -129,15 +122,15 @@
 			<!-- 3rd -->
 			<div class = "grid grid-cols-1 sm:grid-cols-2 gap-6 place-items-center">
 				<!-- Member 6 -->
-				<div class="flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-2xl">
+				<div class="transform-gpu origin-center transition-transform duration-300 hover:[transform:rotateX(10deg)_rotateY(-10deg)] shadow-xl/30 flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-2xl">
 					<div class="w-40 h-40 rounded-full border-2 border-[rgba(41,106,72,0.8)] overflow-hidden">
-						<img src="..." alt="Sosa" class="w-full h-full object-cover" />
+						<img src="/img/thang.jpg" alt="Sosa" class="w-full h-full object-cover" />
 					</div>
 					<div>
-						<h3 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-xl">
+						<h3 class="text-2xl font-semibold text-[rgba(41,106,72,1)] text-shadow-md">
 							Thang H Pham
 						</h3>
-						<h5 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-sm">
+						<h5 class="text-lg font-semibold text-[rgba(41,106,72,1)]">
 							· Tech Team
 						</h5>
 						
@@ -147,16 +140,16 @@
 				</div>
 
 				<!-- Member 7 -->
-				<div class="flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-2xl">
+				<div class="transform-gpu origin-center transition-transform duration-300 hover:[transform:rotateX(10deg)_rotateY(-10deg)] shadow-xl/30 flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-2xl">
 					<div class="w-40 h-40 rounded-full border-2 border-[rgba(41,106,72,0.8)] overflow-hidden">
 						<img src="" alt="Sosa" class="w-full h-full object-cover" />
 					</div>
 
 					<div>
-						<h3 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-xl">
+						<h3 class="text-2xl font-semibold text-[rgba(41,106,72,1)] text-shadow-md">
 							Khanh Tran
 						</h3>
-						<h5 class="text-lg font-semibold text-[rgba(41,106,72,1)] text-sm">
+						<h5 class="text-lg font-semibold text-[rgba(41,106,72,1)]">
 							· Tech Team
 						</h5>
 						
@@ -170,7 +163,7 @@
 </div>
 
 <!-- Contact Information -->
-<div class="flex justify-center items-center mt-8 px-4 sm:px-6 flex-col gap-4">
+<div class="flex justify-center items-center mb-8 mt-8 px-4 sm:px-6 flex-col gap-4">
     <h2> hackathon@hackwit.org </h2>
     <div class="flex flex-row gap-4">
         <Button square variant="tonal" onclick={() => window.open('https://github.com/WITCodingClub/calendar', '_blank')}>
