@@ -25,8 +25,8 @@
 			<div class = "grid grid-cols-1 sm:grid-cols-2 gap-2 place-items-center justify-rounded-md">
 				<!-- Member 1 -->
 				<div class="transform-gpu origin-center transition-transform duration-300 hover:[transform:rotateX(10deg)_rotateY(-10deg)] shadow-xl/30 flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-2xl">
-					<div class="w-40 h-40 rounded-full border-2 border-[rgba(41,106,72,0.8)] overflow-hidden">
-						<img src="/img/jasper.jpg" alt="Daniel Miretsky" class="w-full h-full object-cover" /> 
+					<div class="shadow-xl/50 w-40 h-40 rounded-full border-2 border-[rgba(0,0,0,1)] overflow-hidden">
+						<img src="/img/jasper.jpg" alt="" class="w-full h-full object-cover" /> 
 					</div>
 
 					<div>
@@ -42,7 +42,7 @@
 
 				<!-- Member 2 -->
 				<div class="transform-gpu origin-center transition-transform duration-300 hover:[transform:rotateX(10deg)_rotateY(-10deg)]  shadow-xl/30 flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-2xl">
-					<div class="w-40 h-40 rounded-full border-2 border-[rgba(41,106,72,0.8)] overflow-hidden">
+					<div class="shadow-xl/50 w-40 h-40 rounded-full border-2 border-[rgba(0,0,0,1)] overflow-hidden">
 						<img src="/img/logan.jpg" alt="Sosa" class="w-full h-full object-cover" />
 					</div>
 
@@ -63,7 +63,7 @@
 			<div class = "grid grid-cols-1 sm:grid-cols-3 gap-6 place-items-center">
 				<!-- Member 3 -->
 				<div class="transform-gpu origin-center transition-transform duration-300 hover:[transform:rotateX(10deg)_rotateY(-10deg)]  shadow-xl/30 flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-2xl">
-					<div class="w-40 h-40 rounded-full border-2 border-[rgba(41,106,72,0.8)] overflow-hidden">
+					<div class="shadow-xl/50 w-40 h-40 rounded-full border-2 border-[rgba(0,0,0,1)] overflow-hidden">
 						<img src="/img/daniel.jpg" alt="Daniel Miretsky" class="w-full h-full object-cover" />
 					</div>
 
@@ -82,13 +82,13 @@
 
 				<!-- Member 4 -->
 				<div class="transform-gpu origin-center transition-transform duration-300 hover:[transform:rotateX(10deg)_rotateY(-10deg)]  shadow-xl/30 flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-2xl">
-					<div class="w-40 h-40 rounded-full border-2 border-[rgba(41,106,72,0.8)] overflow-hidden">
+					<div class="shadow-xl/50 w-40 h-40 rounded-full border-2 border-[rgba(0,0,0,1)] overflow-hidden">
 						<img src="" alt="Sosa" class="w-full h-full object-cover" />
 					</div>
 
 					<div>
 						<h3 class="text-2xl font-semibold text-[rgba(41,106,72,1)] text-shadow-md">
-							LogVolo Kotelyak 
+							Volo Kotelyak 
 						</h3>
 						<h5 class="text-lg font-semibold text-[rgba(41,106,72,1)]">
 							· Sponsorship Lead
@@ -100,8 +100,8 @@
 				</div>
 
 				<!-- Member 5 -->
-				<div class="transform-gpu origin-center transition-transform duration-300 hover:[transform:rotateX(10deg)_rotateY(-10deg)] shadow-xl/30 flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-2xl">
-					<div class="w-40 h-40 rounded-full border-2 border-[rgba(41,106,72,0.8)] overflow-hidden">
+				<div class="transform-gpu origin-center transition-transform duration-300 hover:[transform:rotateX(10deg)_rotateY(-10deg)] shadow-xl/30 flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-2xl ">
+					<div class="shadow-xl/50 w-40 h-40 rounded-full border-2 border-[rgba(0,0,0,1)] overflow-hidden">
 						<img src="/img/jojo.jpg" alt="Sosa" class="w-full h-full object-cover" />
 					</div>
 
@@ -122,8 +122,8 @@
 			<!-- 3rd -->
 			<div class = "grid grid-cols-1 sm:grid-cols-2 gap-6 place-items-center">
 				<!-- Member 6 -->
-				<div class="transform-gpu origin-center transition-transform duration-300 hover:[transform:rotateX(10deg)_rotateY(-10deg)] shadow-xl/30 flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-2xl">
-					<div class="w-40 h-40 rounded-full border-2 border-[rgba(41,106,72,0.8)] overflow-hidden">
+				<div class="transform-gpu transition-transform duration-300 hover:[transform:rotateX(10deg)_rotateY(-10deg)] shadow-xl/30 flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-2xl">
+					<div class="shadow-xl/50 w-40 h-40 rounded-full border-2 border-[rgba(0,0,0,1)] overflow-hidden">
 						<img src="/img/thang.jpg" alt="Sosa" class="w-full h-full object-cover" />
 					</div>
 					<div>
@@ -141,7 +141,7 @@
 
 				<!-- Member 7 -->
 				<div class="transform-gpu origin-center transition-transform duration-300 hover:[transform:rotateX(10deg)_rotateY(-10deg)] shadow-xl/30 flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-2xl">
-					<div class="w-40 h-40 rounded-full border-2 border-[rgba(41,106,72,0.8)] overflow-hidden">
+					<div class="shadow-xl/50 w-40 h-40 rounded-full border-2 border-[rgba(0,0,0,1)] overflow-hidden">
 						<img src="" alt="Sosa" class="w-full h-full object-cover" />
 					</div>
 
@@ -163,7 +163,7 @@
 </div>
 
 <!-- Contact Information -->
-<div class="flex justify-center items-center mb-8 mt-8 px-4 sm:px-6 flex-col gap-4">
+<div class="flex justify-center items-center p-8 px-4 sm:px-6 flex-col gap-4">
     <h2> hackathon@hackwit.org </h2>
     <div class="flex flex-row gap-4">
         <Button square variant="tonal" onclick={() => window.open('https://github.com/WITCodingClub/calendar', '_blank')}>
