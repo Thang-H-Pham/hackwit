@@ -142,7 +142,7 @@
 				<!-- Member 7 -->
 				<div class="transform-gpu origin-center transition-transform duration-300 hover:[transform:rotateX(10deg)_rotateY(-10deg)] shadow-xl/30 flex items-center gap-4 bg-[#f4f8f4] border border-[#d6e4dc] rounded-xl p-5 w-full max-w-2xl">
 					<div class="shadow-xl/50 w-40 h-40 rounded-full border-2 border-[rgba(0,0,0,1)] overflow-hidden">
-						<img src="" alt="Sosa" class="w-full h-full object-cover" />
+						<img src="/img/Khanh.jpg" alt="Sosa" class="w-full h-full object-cover" />
 					</div>
 
 					<div>
